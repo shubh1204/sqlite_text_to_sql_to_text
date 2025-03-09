@@ -1,0 +1,204 @@
+{
+  "Inventory": [
+    {
+      "InventoryID": "INV-001",
+      "ProductID": 101,
+      "WarehouseID": "WH-001",
+      "QuantityAvailable": 100,
+      "QuantityReserved": 10,
+      "QuantityDamaged": 5,
+      "LastRestockedDate": "2023-03-01",
+      "CreatedDate": "2023-01-01"
+    },
+    {
+      "InventoryID": "INV-002",
+      "ProductID": 102,
+      "WarehouseID": "WH-002",
+      "QuantityAvailable": 300,
+      "QuantityReserved": 20,
+      "QuantityDamaged": 2,
+      "LastRestockedDate": "2023-03-02",
+      "CreatedDate": "2023-01-02"
+    },
+    {
+      "InventoryID": "INV-003",
+      "ProductID": 103,
+      "WarehouseID": "WH-003",
+      "QuantityAvailable": 120,
+      "QuantityReserved": 15,
+      "QuantityDamaged": 3,
+      "LastRestockedDate": "2023-03-03",
+      "CreatedDate": "2023-01-03"
+    },
+    {
+      "InventoryID": "INV-004",
+      "ProductID": 104,
+      "WarehouseID": "WH-004",
+      "QuantityAvailable": 200,
+      "QuantityReserved": 25,
+      "QuantityDamaged": 1,
+      "LastRestockedDate": "2023-03-04",
+      "CreatedDate": "2023-01-04"
+    },
+    {
+      "InventoryID": "INV-005",
+      "ProductID": 105,
+      "WarehouseID": "WH-001",
+      "QuantityAvailable": 80,
+      "QuantityReserved": 5,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-05",
+      "CreatedDate": "2023-01-05"
+    },
+    {
+      "InventoryID": "INV-006",
+      "ProductID": 106,
+      "WarehouseID": "WH-002",
+      "QuantityAvailable": 250,
+      "QuantityReserved": 10,
+      "QuantityDamaged": 5,
+      "LastRestockedDate": "2023-03-06",
+      "CreatedDate": "2023-01-06"
+    },
+    {
+      "InventoryID": "INV-007",
+      "ProductID": 107,
+      "WarehouseID": "WH-003",
+      "QuantityAvailable": 300,
+      "QuantityReserved": 15,
+      "QuantityDamaged": 2,
+      "LastRestockedDate": "2023-03-07",
+      "CreatedDate": "2023-01-07"
+    },
+    {
+      "InventoryID": "INV-008",
+      "ProductID": 108,
+      "WarehouseID": "WH-004",
+      "QuantityAvailable": 90,
+      "QuantityReserved": 5,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-08",
+      "CreatedDate": "2023-01-08"
+    },
+    {
+      "InventoryID": "INV-009",
+      "ProductID": 109,
+      "WarehouseID": "WH-001",
+      "QuantityAvailable": 110,
+      "QuantityReserved": 10,
+      "QuantityDamaged": 1,
+      "LastRestockedDate": "2023-03-09",
+      "CreatedDate": "2023-01-09"
+    },
+    {
+      "InventoryID": "INV-010",
+      "ProductID": 110,
+      "WarehouseID": "WH-002",
+      "QuantityAvailable": 60,
+      "QuantityReserved": 3,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-10",
+      "CreatedDate": "2023-01-10"
+    },
+    {
+      "InventoryID": "INV-011",
+      "ProductID": 111,
+      "WarehouseID": "WH-003",
+      "QuantityAvailable": 70,
+      "QuantityReserved": 8,
+      "QuantityDamaged": 2,
+      "LastRestockedDate": "2023-03-11",
+      "CreatedDate": "2023-02-01"
+    },
+    {
+      "InventoryID": "INV-012",
+      "ProductID": 112,
+      "WarehouseID": "WH-004",
+      "QuantityAvailable": 90,
+      "QuantityReserved": 10,
+      "QuantityDamaged": 1,
+      "LastRestockedDate": "2023-03-12",
+      "CreatedDate": "2023-02-02"
+    },
+    {
+      "InventoryID": "INV-013",
+      "ProductID": 113,
+      "WarehouseID": "WH-001",
+      "QuantityAvailable": 40,
+      "QuantityReserved": 5,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-13",
+      "CreatedDate": "2023-02-03"
+    },
+    {
+      "InventoryID": "INV-014",
+      "ProductID": 114,
+      "WarehouseID": "WH-002",
+      "QuantityAvailable": 150,
+      "QuantityReserved": 10,
+      "QuantityDamaged": 1,
+      "LastRestockedDate": "2023-03-14",
+      "CreatedDate": "2023-02-04"
+    },
+    {
+      "InventoryID": "INV-015",
+      "ProductID": 115,
+      "WarehouseID": "WH-003",
+      "QuantityAvailable": 200,
+      "QuantityReserved": 20,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-15",
+      "CreatedDate": "2023-02-05"
+    },
+    {
+      "InventoryID": "INV-016",
+      "ProductID": 116,
+      "WarehouseID": "WH-004",
+      "QuantityAvailable": 30,
+      "QuantityReserved": 2,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-16",
+      "CreatedDate": "2023-02-06"
+    },
+    {
+      "InventoryID": "INV-017",
+      "ProductID": 117,
+      "WarehouseID": "WH-001",
+      "QuantityAvailable": 60,
+      "QuantityReserved": 5,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-17",
+      "CreatedDate": "2023-02-07"
+    },
+    {
+      "InventoryID": "INV-018",
+      "ProductID": 118,
+      "WarehouseID": "WH-002",
+      "QuantityAvailable": 20,
+      "QuantityReserved": 1,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-18",
+      "CreatedDate": "2023-02-08"
+    },
+    {
+      "InventoryID": "INV-019",
+      "ProductID": 119,
+      "WarehouseID": "WH-003",
+      "QuantityAvailable": 25,
+      "QuantityReserved": 2,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-19",
+      "CreatedDate": "2023-02-09"
+    },
+    {
+      "InventoryID": "INV-020",
+      "ProductID": 120,
+      "WarehouseID": "WH-004",
+      "QuantityAvailable": 10,
+      "QuantityReserved": 1,
+      "QuantityDamaged": 0,
+      "LastRestockedDate": "2023-03-20",
+      "CreatedDate": "2023-02-10"
+    }
+  ]
+}

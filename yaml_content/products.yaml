@@ -1,0 +1,32 @@
+columns:
+  Brand:
+    data_type: string
+    description: Brand name of the product.
+  Category:
+    data_type: string
+    description: Category to which the product belongs.
+  CreatedDate:
+    data_type: date
+    description: Date when the product was added to the inventory.
+  Description:
+    data_type: string
+    description: Brief description of the product.
+  Price:
+    data_type: float
+    description: Price of the product in currency.
+  ProductID:
+    data_type: integer
+    description: Unique identifier for each product.
+  ProductName:
+    data_type: string
+    description: Name of the product.
+  Quantity:
+    data_type: integer
+    description: Available quantity of the product in stock.
+  ReorderLevel:
+    data_type: integer
+    description: Minimum quantity before reordering is necessary.
+  SupplierID:
+    data_type: string
+    description: Unique identifier for the supplier of the product.
+table_description: Products available for sale in various categories.

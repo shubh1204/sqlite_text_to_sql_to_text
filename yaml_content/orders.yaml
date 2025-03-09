@@ -1,0 +1,31 @@
+columns:
+  CreatedDate:
+    data_type: date
+    description: The date when the order record was created.
+  CustomerID:
+    data_type: string
+    description: Unique identifier for each customer.
+  OrderDate:
+    data_type: date
+    description: The date when the order was placed.
+  OrderID:
+    data_type: string
+    description: Unique identifier for each order.
+  ProductID:
+    data_type: integer
+    description: Unique identifier for each product.
+  QuantityOrdered:
+    data_type: integer
+    description: The quantity of the product ordered.
+  ShippingDate:
+    data_type: date
+    description: The date when the order was shipped.
+  Status:
+    data_type: string
+    description: The current status of the order (e.g., Delivered, Pending, Shipped).
+  TotalPrice:
+    data_type: float
+    description: The total price of the order.
+table_description: This table contains information about customer orders, including
+  details such as order IDs, customer IDs, product IDs, quantities ordered, order
+  dates, shipping dates, order status, total prices, and creation dates.

@@ -1,0 +1,33 @@
+columns:
+  Address:
+    data_type: string
+    description: Street address of the supplier.
+  City:
+    data_type: string
+    description: City where the supplier is located.
+  ContactPerson:
+    data_type: string
+    description: Name of the contact person at the supplier.
+  Country:
+    data_type: string
+    description: Country where the supplier is located.
+  CreatedDate:
+    data_type: date
+    description: Date when the supplier was added to the system.
+  Email:
+    data_type: string
+    description: Email address of the supplier.
+  PhoneNumber:
+    data_type: string
+    description: Contact phone number of the supplier.
+  State:
+    data_type: string
+    description: State where the supplier is located.
+  SupplierID:
+    data_type: string
+    description: Unique identifier for each supplier.
+  SupplierName:
+    data_type: string
+    description: Name of the supplier.
+table_description: This table contains information about suppliers, including their
+  contact details and location.

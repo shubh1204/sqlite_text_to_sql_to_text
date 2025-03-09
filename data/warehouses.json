@@ -1,0 +1,104 @@
+{
+  "Warehouses": [
+    {
+      "WarehouseID": "WH-001",
+      "WarehouseName": "Central Depot",
+      "Location": "Delhi",
+      "ManagerName": "Amit Khurana",
+      "PhoneNumber": "9998887776",
+      "Capacity": 5000,
+      "CurrentOccupancy": 2500,
+      "CreatedDate": "2023-01-01"
+    },
+    {
+      "WarehouseID": "WH-002",
+      "WarehouseName": "East Depot",
+      "Location": "Kolkata",
+      "ManagerName": "Priya Sharma",
+      "PhoneNumber": "9988776655",
+      "Capacity": 3000,
+      "CurrentOccupancy": 2000,
+      "CreatedDate": "2023-01-02"
+    },
+    {
+      "WarehouseID": "WH-003",
+      "WarehouseName": "South Depot",
+      "Location": "Chennai",
+      "ManagerName": "Ravi Subramanian",
+      "PhoneNumber": "9876543210",
+      "Capacity": 4000,
+      "CurrentOccupancy": 1800,
+      "CreatedDate": "2023-01-03"
+    },
+    {
+      "WarehouseID": "WH-004",
+      "WarehouseName": "North Depot",
+      "Location": "Lucknow",
+      "ManagerName": "Meera Yadav",
+      "PhoneNumber": "9123456780",
+      "Capacity": 3500,
+      "CurrentOccupancy": 2200,
+      "CreatedDate": "2023-01-04"
+    },
+    {
+      "WarehouseID": "WH-005",
+      "WarehouseName": "West Depot",
+      "Location": "Mumbai",
+      "ManagerName": "Suresh Patil",
+      "PhoneNumber": "9812345678",
+      "Capacity": 4500,
+      "CurrentOccupancy": 3200,
+      "CreatedDate": "2023-01-05"
+    },
+    {
+      "WarehouseID": "WH-006",
+      "WarehouseName": "Northeast Depot",
+      "Location": "Guwahati",
+      "ManagerName": "Arun Das",
+      "PhoneNumber": "9954321890",
+      "Capacity": 2500,
+      "CurrentOccupancy": 1200,
+      "CreatedDate": "2023-01-06"
+    },
+    {
+      "WarehouseID": "WH-007",
+      "WarehouseName": "Central West Depot",
+      "Location": "Pune",
+      "ManagerName": "Neha Desai",
+      "PhoneNumber": "9765432108",
+      "Capacity": 3500,
+      "CurrentOccupancy": 3000,
+      "CreatedDate": "2023-01-07"
+    },
+    {
+      "WarehouseID": "WH-008",
+      "WarehouseName": "Far South Depot",
+      "Location": "Hyderabad",
+      "ManagerName": "Vijay Reddy",
+      "PhoneNumber": "9898765432",
+      "Capacity": 4000,
+      "CurrentOccupancy": 2700,
+      "CreatedDate": "2023-01-08"
+    },
+    {
+      "WarehouseID": "WH-009",
+      "WarehouseName": "West Coast Depot",
+      "Location": "Goa",
+      "ManagerName": "Alisha Fernandes",
+      "PhoneNumber": "9876547890",
+      "Capacity": 2000,
+      "CurrentOccupancy": 1500,
+      "CreatedDate": "2023-01-09"
+    },
+    {
+      "WarehouseID": "WH-010",
+      "WarehouseName": "Highland Depot",
+      "Location": "Shimla",
+      "ManagerName": "Karan Thakur",
+      "PhoneNumber": "9812365470",
+      "Capacity": 1500,
+      "CurrentOccupancy": 900,
+      "CreatedDate": "2023-01-10"
+    }
+  ]
+}

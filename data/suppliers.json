@@ -1,0 +1,124 @@
+{
+  "Suppliers": [
+    {
+      "SupplierID": "SUP-001",
+      "SupplierName": "Alpha Supply",
+      "Address": "21st Avenue",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Country": "India",
+      "PhoneNumber": "9876543210",
+      "Email": "contact@alpha.com",
+      "ContactPerson": "Rajesh Gupta",
+      "CreatedDate": "2023-01-01"
+    },
+    {
+      "SupplierID": "SUP-002",
+      "SupplierName": "Beta Distributors",
+      "Address": "Central St.",
+      "City": "Delhi",
+      "State": "Delhi",
+      "Country": "India",
+      "PhoneNumber": "9812345678",
+      "Email": "support@beta.com",
+      "ContactPerson": "Sunita Verma",
+      "CreatedDate": "2023-01-02"
+    },
+    {
+      "SupplierID": "SUP-003",
+      "SupplierName": "Gamma Supplies",
+      "Address": "East Lane",
+      "City": "Chennai",
+      "State": "Tamil Nadu",
+      "Country": "India",
+      "PhoneNumber": "9123456780",
+      "Email": "info@gamma.com",
+      "ContactPerson": "Anand Kumar",
+      "CreatedDate": "2023-01-03"
+    },
+    {
+      "SupplierID": "SUP-004",
+      "SupplierName": "Delta Traders",
+      "Address": "West End Blvd",
+      "City": "Bangalore",
+      "State": "Karnataka",
+      "Country": "India",
+      "PhoneNumber": "9876541230",
+      "Email": "sales@delta.com",
+      "ContactPerson": "Priya Sharma",
+      "CreatedDate": "2023-01-04"
+    },
+    {
+      "SupplierID": "SUP-005",
+      "SupplierName": "Zeta Warehouse",
+      "Address": "South Road",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "Country": "India",
+      "PhoneNumber": "9987654321",
+      "Email": "contact@zeta.com",
+      "ContactPerson": "Vijay Reddy",
+      "CreatedDate": "2023-01-05"
+    },
+    {
+      "SupplierID": "SUP-006",
+      "SupplierName": "Omega Importers",
+      "Address": "Main Street",
+      "City": "Ahmedabad",
+      "State": "Gujarat",
+      "Country": "India",
+      "PhoneNumber": "9812365478",
+      "Email": "admin@omega.com",
+      "ContactPerson": "Nikita Patel",
+      "CreatedDate": "2023-01-06"
+    },
+    {
+      "SupplierID": "SUP-007",
+      "SupplierName": "Sigma Solutions",
+      "Address": "Park Avenue",
+      "City": "Pune",
+      "State": "Maharashtra",
+      "Country": "India",
+      "PhoneNumber": "9123687450",
+      "Email": "support@sigma.com",
+      "ContactPerson": "Rohan Desai",
+      "CreatedDate": "2023-01-07"
+    },
+    {
+      "SupplierID": "SUP-008",
+      "SupplierName": "Epsilon Exports",
+      "Address": "Harbour Lane",
+      "City": "Kolkata",
+      "State": "West Bengal",
+      "Country": "India",
+      "PhoneNumber": "9834567210",
+      "Email": "exports@epsilon.com",
+      "ContactPerson": "Arjun Nair",
+      "CreatedDate": "2023-01-08"
+    },
+    {
+      "SupplierID": "SUP-009",
+      "SupplierName": "Theta Wholesalers",
+      "Address": "North Market",
+      "City": "Lucknow",
+      "State": "Uttar Pradesh",
+      "Country": "India",
+      "PhoneNumber": "9156789432",
+      "Email": "info@theta.com",
+      "ContactPerson": "Meera Yadav",
+      "CreatedDate": "2023-01-09"
+    },
+    {
+      "SupplierID": "SUP-010",
+      "SupplierName": "Lambda Logistics",
+      "Address": "Highway Road",
+      "City": "Jaipur",
+      "State": "Rajasthan",
+      "Country": "India",
+      "PhoneNumber": "9198765432",
+      "Email": "contact@lambda.com",
+      "ContactPerson": "Kunal Rathore",
+      "CreatedDate": "2023-01-10"
+    }
+  ]
+}
