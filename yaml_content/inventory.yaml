@@ -1,0 +1,60 @@
+columns:
+  CreatedDate:
+    description: The date when the inventory record was created.
+    type: date
+  InventoryID:
+    description: Unique identifier for each inventory record.
+    type: string
+  LastRestockedDate:
+    description: The date when the product was last restocked in the warehouse.
+    type: date
+  ProductID:
+    description: Identifier for the product associated with the inventory record.
+    type: integer
+  QuantityAvailable:
+    description: The quantity of the product currently available in the warehouse.
+    type: integer
+  QuantityDamaged:
+    description: The quantity of the product that is damaged and not available for
+      sale.
+    type: integer
+  QuantityReserved:
+    description: The quantity of the product that is reserved for orders but not yet
+      shipped.
+    type: integer
+  WarehouseID:
+    description: Identifier for the warehouse where the product is stored.
+    type: string
+schema:
+  properties:
+    CreatedDate:
+      format: date
+      type: string
+    InventoryID:
+      type: string
+    LastRestockedDate:
+      format: date
+      type: string
+    ProductID:
+      type: integer
+    QuantityAvailable:
+      type: integer
+    QuantityDamaged:
+      type: integer
+    QuantityReserved:
+      type: integer
+    WarehouseID:
+      type: string
+  required:
+  - InventoryID
+  - ProductID
+  - WarehouseID
+  - QuantityAvailable
+  - QuantityReserved
+  - QuantityDamaged
+  - LastRestockedDate
+  - CreatedDate
+  type: object
+table_description: This table contains inventory data for products stored in various
+  warehouses, detailing the quantities available, reserved, and damaged, along with
+  restocking and creation dates.

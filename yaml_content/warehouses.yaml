@@ -1,0 +1,49 @@
+description:
+  columns:
+  - description: Unique identifier for each warehouse
+    name: WarehouseID
+    type: string
+  - description: Name of the warehouse
+    name: WarehouseName
+    type: string
+  - description: Geographical location of the warehouse
+    name: Location
+    type: string
+  - description: Name of the warehouse manager
+    name: ManagerName
+    type: string
+  - description: Contact phone number of the warehouse manager
+    name: PhoneNumber
+    type: string
+  - description: Maximum capacity of the warehouse
+    name: Capacity
+    type: integer
+  - description: Current number of items stored in the warehouse
+    name: CurrentOccupancy
+    type: integer
+  - description: Date when the warehouse was created
+    name: CreatedDate
+    type: date
+  table: warehouses
+schema:
+  warehouses:
+    properties:
+      Capacity:
+        type: integer
+      CreatedDate:
+        format: date
+        type: string
+      CurrentOccupancy:
+        type: integer
+      Location:
+        type: string
+      ManagerName:
+        type: string
+      PhoneNumber:
+        type: string
+      WarehouseID:
+        type: string
+      WarehouseName:
+        type: string
+    type: object
+table_description: This table contains warehouse, it's capacity and manager details
